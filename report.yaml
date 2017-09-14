@@ -1,0 +1,31 @@
+```yaml
+company:
+  name: MyLilHealthRobotRetailer
+  logo: My Lil' HealthBot.jpg
+how_might_we: How might we create streamlined logistic systems for robot retailers?
+
+product_narrative: |
+  The retailing industry has undergone seismic changes over the last decade. E-commerce giants like Amazon have radically changed the way people shop for products. Robotic retailers like “My Lil’ HealthBot” are trying to provide another channel for customers to make their purchases. It is not always convenient to go to stores to purchase OTCs or personal care products. Research have shown that customers go to the drugstores for about 75 products 90 percent of the time. They are also more likely to visit these stores when they are dire need of these products. This means a vending machine model would be perfect for this market segment. These machines are able to hold enough inventory while providing the users with instant gratification. The challenge with this business model is the lack of personalization. It is hard to maintain a loyal customer base when there is a lack of human-like interactions. Another problem is the many different channels to purchase product nowadays; it is harder more than ever to keep a customer’s attention and loyalty. Therefore, it is necessary for robotic retailers to implement another layer of smart technology to keep the customer engaged and entertained. There needs to be some emotional or physical reward to draw the user back to the machine. 
+
+team:
+  picture: Teamphoto.JPG
+  roster:
+ - name:  Sean Hsu
+    email: h742@cornell.edu
+ - name: Hanyu Zhao 
+    email: zhaoh381@newschool.edu
+ - name: Jieneng Yang  
+    email: jy762@cornell.edu
+ - name: Haoxin Guo 
+    email: hg428@cornell.edu
+
+
+assets:
+- title: Sprint 1
+  url: URL OF YOUR SPRINT 1 WORK/PRESENTATION
+- title: Sprint 2
+  url: URL OF YOUR SPRINT 2 WORK/PRESENTATION
+- title: Sprint 3
+  url: URL OF YOUR SPRINT 3 WORK/PRESENTATION
+```
+ 
