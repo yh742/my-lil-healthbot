@@ -5,8 +5,12 @@ company:
 how_might_we: How might we create streamlined logistic systems for robot retailers?
 
 product_narrative: |
-  The retailing industry has undergone seismic changes over the last decade. E-commerce giants like Amazon have radically changed the way people shop for products. Robotic retailers like “My Lil’ HealthBot” are trying to provide another channel for customers to make their purchases. It is not always convenient to go to stores to purchase OTCs or personal care products. Research have shown that customers go to the drugstores for about 75 products 90 percent of the time. They are also more likely to visit these stores when they are dire need of these products. This means a vending machine model would be perfect for this market segment. These machines are able to hold enough inventory while providing the users with instant gratification. The challenge with this business model is the lack of personalization. It is hard to maintain a loyal customer base when there is a lack of human-like interactions. Another problem is the many different channels to purchase product nowadays; it is harder more than ever to keep a customer’s attention and loyalty. Therefore, it is necessary for robotic retailers to implement another layer of smart technology to keep the customer engaged and entertained. There needs to be some emotional or physical reward to draw the user back to the machine.
-  In order to streamline the logistic of robot retailers, we plan on expediting product purchase and pickup by combining beacon and mobile technologies. Customers can now make purchases through their mobile phone and their items will automatically vend when they are in the proximity of the machine.
+  My Lil HealthBot is a startup that is trying to push the boundaries of retailing by transforming the way customers interact and make purchases with a machine. 
+
+  Our studies and survey have shown that there are currently some glaring weaknesses in the traditional vending machine business model though. Perhaps the most egregious one is the fact that many customers purchase items from these machines fairly infrequently (less than once a month). Now how do most brick and mortar stores draw customers back? They use advertisements and promotions . 
+
+  Unfortunately, we don’t have the retail space or marketing budget. What our robotic retailer does have is a high traffic and mobile location. We can use this to our advantage to push highly personalized ads using beacon technology. We hope to communicate with our customers through very targeted notification to display reminders and discounts based on past purchasing data and seasonal events. We believe this can lead to more frequent purchases from our customers. 
+
 team:
   picture: Teamphoto.JPG
   roster:
