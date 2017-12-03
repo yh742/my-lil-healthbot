@@ -16,12 +16,16 @@ team:
   roster:
   - name: Sean Hsu
     email: h742@cornell.edu
+    picture: Teamphoto.JPG
   - name: Hanyu Zhao
     email: zhaoh381@newschool.edu
+    picture: Teamphoto.JPG
   - name: Haoxin Guo 
-    email: jy762@cornell.edu
-  - name: Jieneng Yang
     email: hg428@cornell.edu
+    picture: Teamphoto.JPG
+  - name: Jieneng Yang
+    email: jy762@cornell.edu
+    picture: Teamphoto.JPG
 
 
 assets:
@@ -31,7 +35,7 @@ assets:
   url: https://docs.google.com/a/cornell.edu/presentation/d/1tw-8zh2WsQ2oQn3eb5WmDtTb4Sli3OX1mCG9rSfJQUw/edit?usp=sharing
 - title: Weekly Artifacts
   url: https://drive.google.com/open?id=14463vy9O4GINvCzJh294jUi8DeTAeNq8q3l0E4M9pG0
-- title: Tech Talk
-  url: https://drive.google.com/open?id=1EeYMarOzE20Ehub8Wf6j4ftqbNufFyu4CWNkMLhxXhI
 - title: Sprint 3
   url: https://drive.google.com/open?id=15SgRK17wZmdtUqyGa7T8YdB4CuaI_Ktmb9gYbHw_5fQ
+- title: Final
+  url: https://drive.google.com/open?id=1ocg3E4GAljcKU0cTXnExSCNbaTwroZerhEAbAkHDLDo
