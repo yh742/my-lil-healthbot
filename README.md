@@ -7,6 +7,7 @@ The link can be found here: https://www.mylilhealthbot.com/
 We wanted to find a way to make it easier for students to purchase from these vending machines by reducing their search time.
 ## Solution
 We prototyped an app to help users locate the location of the Healthbots.
-## Demo
-https://drive.google.com/open?id=1Bvk-DPF_X2ihT94Ln0i5WHIwKAjnKY91
+## Video Demo
+<a href="https://youtu.be/y40UvlU5OhU" target="_blank"><img src="http://img.youtube.com/vi/y40UvlU5OhU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
 
